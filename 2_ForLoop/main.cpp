@@ -5,20 +5,20 @@ int main() {
 
     for(i=0; i<N; i++)
     {
-        for(j=0; j<M; j++)
-        {
-            std::cout <<"*";
-        } std::cout << std::endl; M--;
-    }
-
-    std::cout << "Hello, World!" << std::endl;
-
-    for(i=0; i<N; i++)
-    {   M++;
-        for(j=0; j<M; j++)
+        for(j=i; j<M; j++)
         {
             std::cout <<"*";
         } std::cout << std::endl;
+    }
+
+    std::cout << "Hello, World!" << std::endl;
+    M=9;
+    for(i=0; i<N; i++)
+    {
+        for(j=N; j>M; j--)
+        {
+            std::cout <<"*";
+        } std::cout << std::endl; M--;
     }
     return 0;
 }
