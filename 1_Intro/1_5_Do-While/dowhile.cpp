@@ -2,7 +2,7 @@
 #include <iomanip>
 #include <cctype>
 #include <cstdlib>
-
+ 
 int main() {
     char input;
     int choice,grade;
