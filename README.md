@@ -1,2 +1,3 @@
 # Tutorial_Lessons
-Tutorial Coding Lessons for C++
+Part 1 - Tutorial Coding example Lessons for C++
+Part 2 - Basic topics, advancing into pointers, classes and functions  
