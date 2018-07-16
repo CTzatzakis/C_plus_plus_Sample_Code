@@ -7,7 +7,6 @@ int main() {
     char input;
     int choice,grade;
 
-
     do
     {
         std::cout <<"[1]. Enter one   (1)  for character entry."<<std::endl;
