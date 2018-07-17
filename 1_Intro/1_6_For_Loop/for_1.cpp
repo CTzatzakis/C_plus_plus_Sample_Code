@@ -26,4 +26,4 @@ int main() {
         } std::cout << std::endl; M--;
     }
     return 0;
-}
+} // end of main
