@@ -17,13 +17,17 @@ int main() {
     }
 
     std::cout << "Stars ASC" << std::endl;
-    M=9;
-    for(i=0; i<N; i++)
+
+    for(i=0,M=9; i<N,M>=0; M--,i++)
     {
         for(j=N; j>M; j--)
         {
             std::cout <<"*";
-        } std::cout << std::endl; M--;
+        } std::cout << std::endl;
     }
+    
+    for (x=0,y=0; x+y<100; x=x+10,y=y+20)
+        std::cout <<"x="<<x<<" y="<<y<<" x+y="<<x+y<< std::endl;
+    
     return 0;
 } // end of main
