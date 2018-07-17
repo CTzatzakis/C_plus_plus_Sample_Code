@@ -19,4 +19,4 @@ int main()
     }
     while (ch!='.');         // end program with a '.'
     return 0;
-} // end of main
+} //end of main
