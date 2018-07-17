@@ -14,4 +14,4 @@ int main() {
     std::cout <<std::setw(12)<<"Area:"<<std::setw(5)<<std::setprecision(9)<<area<<std::endl;
 
     return 0;
-}
+} // end of main
