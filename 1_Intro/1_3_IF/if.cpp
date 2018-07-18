@@ -31,7 +31,5 @@ int main() {
     else
         std::cout <<std::setw(12)<<"Not a valid choice."<<std::endl;
 
-
-
     return 0;
 } // end of main
