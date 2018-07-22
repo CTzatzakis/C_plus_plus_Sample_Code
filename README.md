@@ -32,5 +32,5 @@ Very basic knowledge of programming will be assumed. Any prior exposure to any p
 
 ## License
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE, Version 3 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU GENERAL PUBLIC LICENSE, Version 3 - see the [LICENSE](LICENSE) file for details
 
