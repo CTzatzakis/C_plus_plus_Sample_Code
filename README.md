@@ -1,5 +1,9 @@
 # C_plus_plus_Coding_Samples
 
+C++ is a popular middle-level computer programming language developed by Bjarne Stroustrup at Bell Labs in early 1979. C++ is an enhanced version of the C language. C++ introduced many new features to the C language, and is best known as super-set of C language. C++ is an object oriented programming language whereas C is a procedural programming language.
+
+## Content
+
 Part 1 - Tutorial Coding example Lessons for C++
 
 Part 2 - Basic topics, pointers, classes, functions and templates
