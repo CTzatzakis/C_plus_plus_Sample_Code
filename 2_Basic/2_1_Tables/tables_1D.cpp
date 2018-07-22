@@ -11,7 +11,7 @@ int main()
     char msg2[100] = {"Hello back"};
     int diff,diff2=0;
     size_t count=0;
-	// ^ variables ^
+	//  ^ variables ^
     std::cout << " first string = " << msg1 <<std::endl;
     std::cout << "second string = " << msg2 <<std::endl;
 	
