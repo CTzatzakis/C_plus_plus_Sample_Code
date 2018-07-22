@@ -15,10 +15,10 @@ Very basic knowledge of programming will be assumed. Any prior exposure to any p
 ### Part 1 - Tutorial Coding example Lessons for C++
 
 ### Part 2 - Basic topics
-## pointers
-## classes
-## functions
-## templates
+#### pointers
+#### classes
+#### functions
+#### templates
 
 ### Part 3 - Data Structures and Algorithms
 
