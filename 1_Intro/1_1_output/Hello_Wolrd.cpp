@@ -1,3 +1,7 @@
+/*
+Basic intro 
+Print out the message "Hello World!".
+*/
 #include <iostream>
 
 int main() {

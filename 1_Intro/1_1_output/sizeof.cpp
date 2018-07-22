@@ -1,3 +1,6 @@
+/*
+Develop a program that examines the length of the integer type and floating-point type
+*/
 #include <iostream>
 #include <cstdio>
 #include <cfloat>

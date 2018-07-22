@@ -18,18 +18,18 @@ int main() {
         if(isdigit(input))
         {
             std::cout <<std::endl<<"Input is a number, ["<<input<<"]";
-        }
+        }//End of if
         else if (isalpha(input))
         {
             std::cout <<std::endl<<"Input is a letter, ["<<input<<"]";
-        }
-    }
+        }//End of else if
+    } //End of if
     else if(choice==2)
     {
         exit(0);
-    }
+    } //End of else if
     else
-        std::cout <<std::setw(12)<<"Not a valid choice."<<std::endl;
+        std::cout <<std::setw(12)<<"Not a valid choice."<<std::endl;//End of else
 
     return 0;
 } // end of main

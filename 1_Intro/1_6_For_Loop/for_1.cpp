@@ -1,3 +1,9 @@
+/*
+Develop a program that display examples of the uses of for loop
+1. Count to Ten.
+2. Print out 10 rows of stars ordered by ASC & DESC format
+3. Dual variable for loop 
+*/
 #include <iostream>
 
 int main() {

@@ -17,16 +17,12 @@ int main() {
     switch (choice)
     {
         case 1:
-            std::cout <<"Give a character:";
+            std::cout <<"Give a character:"; 
             std::cin >> input;
             if(isdigit(input))
-            {
-                std::cout <<std::endl<<"Input is a number, ["<<input<<"]";
-            }
+				std::cout <<std::endl<<"Input is a number, ["<<input<<"]";//End of if
             else if (isalpha(input))
-            {
-                std::cout <<std::endl<<"Input is a letter, ["<<input<<"]";
-            }
+				std::cout <<std::endl<<"Input is a letter, ["<<input<<"]";//End of else if
         break;
         case 2:
             std::cout <<"Hello!"<<std::endl;
@@ -53,24 +49,24 @@ int main() {
                 default:
                     std::cout <<"fail";
                     break;
-            }
+            } //End of switch
         break;
         case 4:
 
             std::cout <<"(- if -)Insert grade:";
             std::cin >> grade;
             if((grade>8)&&(grade<11))
-                std::cout <<"excellent";
+                std::cout <<"excellent";//End of if
             else if((grade>6)&&(grade<9))
-                std::cout <<"very good";
+                std::cout <<"very good";//End of else if
             else if(grade==6)
-                std::cout <<"good";
+                std::cout <<"good";//End of else if
             else if(grade==5)
-                std::cout <<"pass";
+                std::cout <<"pass";//End of else if
             else if((grade>=0)&&(grade<5))
-                std::cout <<"fail";
+                std::cout <<"fail";//End of else if
             else
-                std::cout <<"Out of bounds";
+                std::cout <<"Out of bounds";//End of else
 
         break;
         case 5:
@@ -79,7 +75,7 @@ int main() {
         default:
             std::cout <<std::setw(12)<<"Not a valid choice."<<std::endl;
         break;
-    }
+    } //End of switch
 
     return 0;
 } // end of main

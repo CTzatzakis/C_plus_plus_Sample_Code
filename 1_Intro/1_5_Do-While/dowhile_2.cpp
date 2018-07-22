@@ -23,13 +23,9 @@ int main() {
                 std::cout <<"Give a character:";
                 std::cin >> input;
                 if(isdigit(input))
-                {
                     std::cout <<std::endl<<"Input is a number, ["<<input<<"]";
-                }
                 else if (isalpha(input))
-                {
                     std::cout <<std::endl<<"Input is a letter, ["<<input<<"]";
-                }
                 break;
             case 2:
                 std::cout <<"Hello!"<<std::endl;
@@ -56,7 +52,7 @@ int main() {
                     default:
                         std::cout <<"fail";
                         break;
-                }
+                } //End of Switch
                 break;
             case 4:
 
@@ -82,9 +78,9 @@ int main() {
             default:
                 std::cout <<std::setw(12)<<"Not a valid choice."<<std::endl;
                 break;
-        }
+        }//End of Switch
 
-    }while (choice!=5);
+    }while (choice!=5); //End of while withe entry "5" 
 
 
     return 0;

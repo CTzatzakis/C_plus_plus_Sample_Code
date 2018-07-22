@@ -16,7 +16,7 @@ int main()
             putchar(toupper(ch));
         else putchar(tolower(ch));
         std::cout <<std::endl;
-    }
+    }//Emd of do
     while (ch!='.');         // end program with a '.'
     return 0;
 } //end of main
