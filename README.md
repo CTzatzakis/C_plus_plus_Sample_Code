@@ -11,14 +11,19 @@ This is designed for people who want to learn C++ Programming Language or refres
 Very basic knowledge of programming will be assumed. Any prior exposure to any programming language like C would be beneficial.
 
 ## Content
-
-### Part 1 - Tutorial Coding example Lessons for C++
-
+## Tutorial Coding example Lessons for C++
+### Part 1 - Intriduction 
+#### > Output
+#### > Input
+#### > IF
+#### > Switch - Case
+#### > do While
+#### > For Loop
 ### Part 2 - Basic topics
-#### pointers
-#### classes
-#### functions
-#### templates
+#### > pointers
+#### > classes
+#### > functions
+#### > templates
 
 ### Part 3 - Data Structures and Algorithms
 
