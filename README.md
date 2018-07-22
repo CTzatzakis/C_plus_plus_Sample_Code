@@ -11,7 +11,7 @@ This is designed for people who want to learn C++ Programming Language or refres
 Very basic knowledge of programming will be assumed. Any prior exposure to any programming language like C would be beneficial.
 
 ## Content
-## Tutorial Coding example Lessons for C++
+
 ### Part 1 - Intriduction 
 #### > Output
 #### > Input
@@ -19,12 +19,18 @@ Very basic knowledge of programming will be assumed. Any prior exposure to any p
 #### > Switch - Case
 #### > do While
 #### > For Loop
+
 ### Part 2 - Basic topics
-#### > pointers
-#### > classes
-#### > functions
-#### > templates
+#### > Pointers
+#### > Classes
+#### > Functions
+#### > Templates
 
 ### Part 3 - Data Structures and Algorithms
 
 ### Part 4 - Evolutionary Computation
+
+## License
+
+This project is licensed under the GNU GENERAL PUBLIC LICENSE, Version 3 - see the [LICENSE.md](LICENSE.md file for details
+
