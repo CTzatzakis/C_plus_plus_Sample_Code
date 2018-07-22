@@ -4,10 +4,10 @@ C++ is a popular middle-level computer programming language developed by Bjarne 
 
 ## Content
 
-Part 1 - Tutorial Coding example Lessons for C++
+### Part 1 - Tutorial Coding example Lessons for C++
 
-Part 2 - Basic topics, pointers, classes, functions and templates
+### Part 2 - Basic topics, pointers, classes, functions and templates
 
-Part 3 - Data Structures and Algorithms
+### Part 3 - Data Structures and Algorithms
 
-Part 4 - Evolutionary Computation
+### Part 4 - Evolutionary Computation
