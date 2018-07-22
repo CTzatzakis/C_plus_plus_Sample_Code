@@ -12,7 +12,7 @@ Very basic knowledge of programming will be assumed. Any prior exposure to any p
 
 ## Content
 
-### Part 1 - Intriduction 
+### Part 1 - introduction
 #### > Output
 #### > Input
 #### > IF
