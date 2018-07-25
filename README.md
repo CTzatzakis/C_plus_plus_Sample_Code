@@ -26,9 +26,7 @@ Very basic knowledge of programming will be assumed. Any prior exposure to any p
 #### > Functions
 #### > Templates
 
-### Part 3 - Data Structures and Algorithms
-
-### Part 4 - Evolutionary Computation
+### ...
 
 ## License
 
