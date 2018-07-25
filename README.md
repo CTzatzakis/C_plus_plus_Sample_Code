@@ -4,7 +4,7 @@ C++ is a popular middle-level computer programming language developed by Bjarne 
 
 ## Audience
 
-This is designed for people who want to learn C++ Programming Language or refresh basic knowledge. This C++ tutorial is a comprehensive guide on how to get started with C++.
+This is designed for people who want to learn C++ Programming Language or refresh basic knowledge. This tutorial is populated with evaluation exercises and examples for some of many aspects of C++ Programming language.
 
 ### Prerequisites
 
